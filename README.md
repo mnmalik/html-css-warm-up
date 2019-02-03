@@ -40,7 +40,7 @@ In the first week of class, you were supposed to install all the linters and val
 * The W3C should not generate any errors, either. Warnings, again, are fine.
 
 ## Due
-10:00 AM on Tuesday, 12 February 2019.
+10:00 AM on Tuesday, 26 February 2019.
 
 ## Submission
 You will need to issue a pull request back into the original repo, the one from which your fork was created. See the **Issuing Pull Requests** section of [this site](http://code-warrior.github.io/tutorials/git/github/index.html) for help on how to submit your assignment.
