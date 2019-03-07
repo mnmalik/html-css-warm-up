@@ -1,0 +1,44 @@
+body {
+  background-color: #F8F8F8		;
+}
+img {
+   width: 1381px;
+}
+h1 {
+   font-family: 'Righteous', cursive;
+  color: black;
+  font-weight: bold;
+  text-align: center;
+  border: 1px solid darkgreen;
+  padding: 25px 50px;
+  background-color: #F8F8F8;
+}
+h2 {
+   color: black;
+   text-align: center;
+   font-family: 'Cabin', sans-serif;
+}
+ol{
+   font-family: 'Cabin', sans-serif;
+   color: black;
+   text-align: center;
+   list-style-position: inside;
+}
+p {
+   color: black;
+   font-family: 'Cabin', sans-serif;
+  font-size: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+a:link, a:visited {
+  background-color: #F8F8F8 ;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a:hover, a:active {
+  background-color: gray;
+}
